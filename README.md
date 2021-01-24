@@ -90,7 +90,7 @@ Updated Thomas High School Rank: 2nd
 
         ![score_by_size](./Images/score_by_size.png)
 
-        Updated Scores by School Spending:
+        Updated Scores by School Size:
 
         ![score_by_size_updated](./Images/score_by_size_updated.png)   
 
